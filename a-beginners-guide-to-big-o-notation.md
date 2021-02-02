@@ -3,6 +3,8 @@ title: A beginner's guide to Big O Notation
 permalink: /2009/06/a-beginners-guide-to-big-o-notation/
 ---
 
+# A beginner's guide to Big O Notation
+
 Big O notation is used in Computer Science to describe the performance or complexity of an algorithm. Big O specifically describes the worst-case scenario, and can be used to describe the execution time required or the space used (e.g. in memory or on disk) by an algorithm.
 
 Anyone who’s read Programming Pearls or any other Computer Science books and doesn’t have a grounding in Mathematics will have hit a wall when they reached chapters that mention O(N log N) or other seemingly bizarre syntax. Hopefully this article will help you gain an understanding of the basics of Big O and Logarithms.
