@@ -11,9 +11,9 @@ As a programmer first and a mathematician second (or maybe third or fourth) I fo
 
 ## O(1)
 
-```
 O(1) describes an algorithm that will always execute in the same time (or space) regardless of the size of the input data set.
 
+```
 bool IsFirstElementNull(IList<String> elements)
 {
     return elements[0] == null;
